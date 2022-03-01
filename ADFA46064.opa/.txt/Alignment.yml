@@ -1,0 +1,14 @@
+segment_sources:
+  P2D54C212:
+    type: origin_type
+    relation: translation
+    language: sa
+  P9BED48B8:
+    type: origin_type
+    relation: translation
+    language: bo
+  P81811D3A:
+    type: origin_type
+    relation: translation
+    language: zh
+segment_pairs: {}
